@@ -5,3 +5,4 @@ Este repositório tem como objetivo o estudo de Design Patterns para aprimorar o
 
 - Padrões Criacionais:
   - [Factory Method](src/Creational/FactoryMethod)
+  - [Abstract Factory](src/Creational/AbstractFactory)
